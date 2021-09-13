@@ -15,7 +15,9 @@ module.exports = {
         cyan: '#00FFFF',
         dark_cyan: '#29B6B6',
         green1: '#49D41F',
-        blue_fb : '#1277B9'
+        blue_fb : '#1277B9',
+        biru_tua : '#003049',
+        ijo_whatsapp : '#136F63'
       },
       textColor:{
         purple: '#6860F5'
